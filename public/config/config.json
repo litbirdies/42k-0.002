@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 10000,
   "WEI_COST": 2000000000000000,
   "DISPLAY_COST": 0.002,
-  "GAS_LIMIT": 42000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "OpeanSea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/litbirdies",
   "SHOW_BACKGROUND": true
